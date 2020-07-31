@@ -1,16 +1,13 @@
-# textscanner
+# Textscanner
 
 A new Flutter application.
+I was facing this issue of link (URL) being unable to launch from images , in this Covid19 time there are lots of webinars & workshops being conducted . If you find an image with a URL to register it was quite a task to hard type the written URL in the image to the browser & then able to register , sometimes it misspelled & yes it was quite painful experience.
 
-## Getting Started
+To overcome this, I have build this app "Link Scanner" which grabs the written text in the image with the help of Machine Learning [Text Segmentation] & converts it into URL in the blue color which makes the task quite effortless now you just need to tap on the blue highlighted link .
 
-This project is a starting point for a Flutter application.
+- Pick an image
+- Crop it
+- Launch the Link
 
-A few resources to get you started if this is your first Flutter project:
+#Flutter #firebase #ml_kit #machineLearning #flutterDev #firebaseMlKit #ml #appdeveloper #app #appdevelopment
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
