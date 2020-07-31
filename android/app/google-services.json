@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "561638950799",
+    "firebase_url": "https://text-scanner-68421.firebaseio.com",
+    "project_id": "text-scanner-68421",
+    "storage_bucket": "text-scanner-68421.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561638950799:android:b285cabf6f7e472f8b2dfa",
+        "android_client_info": {
+          "package_name": "com.ahteshamzaidi.textscanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561638950799-6kfis69le1moffhh9k9njqf0f5vubp8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqPuI-k3ebbuvmBp4zIZz3ZaS3kf5vzYE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561638950799-6kfis69le1moffhh9k9njqf0f5vubp8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
