@@ -5,11 +5,11 @@ I was facing this issue of link (URL) being unable to launch from images , in th
 
 To overcome this, I have build this app "Link Scanner" which grabs the written text in the image with the help of Machine Learning [Text Segmentation] & converts it into URL in the blue color which makes the task quite effortless now you just need to tap on the blue highlighted link .
 
-#Demo - https://www.youtube.com/watch?v=R_SVjbF0EBQ
+# Demo - https://www.youtube.com/watch?v=R_SVjbF0EBQ
 
 - Pick an image
 - Crop it
 - Launch the Link
 
-#Flutter #firebase #ml_kit #machineLearning #flutterDev #firebaseMlKit #ml #appdeveloper #app #appdevelopment
+# Flutter # firebase # ml_kit # machineLearning #flutterDev #firebaseMlKit #ml #appdeveloper #app #appdevelopment
 
