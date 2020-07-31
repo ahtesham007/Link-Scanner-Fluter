@@ -11,5 +11,3 @@ To overcome this, I have build this app "Link Scanner" which grabs the written t
 - Crop it
 - Launch the Link
 
-# Flutter # firebase # ml_kit # machineLearning #flutterDev #firebaseMlKit #ml #appdeveloper #app #appdevelopment
-
